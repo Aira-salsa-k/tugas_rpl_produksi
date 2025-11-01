@@ -26,7 +26,7 @@ This project provides a clean and minimal setup using Vite’s fast development 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Aira-salsa-k/rpl_production_app.git
+git clone https://github.com/Aira-salsa-k/tugas_rpl_produksi.git
 ```
 
 ### 2️⃣ Navigate into the Project Folder
