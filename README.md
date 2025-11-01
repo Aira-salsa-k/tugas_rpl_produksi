@@ -1,4 +1,4 @@
-# 🍰 RPL Production App
+# 🍰 RPL Production & DISTRIBUTION App
 
 A simple and efficient web application built with **React + Vite**, designed to support production workflow management.  
 This project provides a clean and minimal setup using Vite’s fast development server and React’s component-based architecture.
@@ -97,39 +97,3 @@ If you want to enable the new **React Compiler**, follow the official guide:
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License** — feel free to use and modify it.
-
----
-
-## 📘 React + Vite Base Info
-
-This project was bootstrapped with the official [Vite React Template](https://vitejs.dev/).  
-It includes a minimal setup to get React working in Vite with HMR and ESLint.
-
-### Available Plugins
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react) (uses **Babel** or **oxc**)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) (uses **SWC** for Fast Refresh)
-
-### Expanding ESLint
-For production-grade applications, we recommend using **TypeScript** with type-aware lint rules.  
-Learn more here:  
-👉 [TypeScript ESLint Guide](https://typescript-eslint.io)
-
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
