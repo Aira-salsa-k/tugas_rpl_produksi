@@ -31,7 +31,7 @@ git clone https://github.com/Aira-salsa-k/tugas_rpl_produksi.git
 
 ### 2️⃣ Navigate into the Project Folder
 ```bash
-cd rpl_production_app
+cd tugas_rpl_produksi
 ```
 
 ### 3️⃣ Install Dependencies
